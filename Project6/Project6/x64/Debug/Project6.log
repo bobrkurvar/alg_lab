@@ -1,0 +1,6 @@
+﻿  graph.cpp
+C:\alg_lab\Project6\Project6\graph.cpp(76,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\alg_lab\Project6\Project6\graph.cpp(96,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Project6.vcxproj -> C:\alg_lab\Project6\x64\Debug\Project6.exe
