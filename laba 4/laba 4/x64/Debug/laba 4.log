@@ -1,0 +1,6 @@
+﻿  graph.cpp
+C:\alg_lab\laba 4\laba 4\graph.cpp(76,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\alg_lab\laba 4\laba 4\graph.cpp(96,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  laba 4.vcxproj -> C:\alg_lab\laba 4\x64\Debug\laba 4.exe
